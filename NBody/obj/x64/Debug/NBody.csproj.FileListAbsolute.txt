@@ -1,0 +1,16 @@
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\NBody.exe.config
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\NBody.exe
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\NBody.pdb
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\BEPUphysics.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\Fusion.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\SharpDX.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\SharpDX.XAudio2.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\SharpDX.Direct3D11.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\SharpDX.DXGI.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\SharpDX.XInput.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\SharpDX.RawInput.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\SharpDX.D3DCompiler.dll
+d:\ITMO\Vis\NBody\NBody\bin\x64\Debug\BEPUutilities.dll
+d:\ITMO\Vis\NBody\NBody\obj\x64\Debug\NBody.csprojResolveAssemblyReference.cache
+d:\ITMO\Vis\NBody\NBody\obj\x64\Debug\NBody.exe
+d:\ITMO\Vis\NBody\NBody\obj\x64\Debug\NBody.pdb
